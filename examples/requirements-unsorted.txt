@@ -1,0 +1,8 @@
+# Web dependencies, in the order they were added
+requests==2.31.0
+
+Django==4.2.7
+urllib3[security]>=1.26
+flask
+numpy>=1.24
+celery==5.3.4
